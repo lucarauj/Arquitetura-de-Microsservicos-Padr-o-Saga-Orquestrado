@@ -1,3 +1,5 @@
+<p align="center"><img width="400px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Imagem Curso.png" /></p>
+
 # Curso Arquitetura de Microsserviços: Padrão Saga Orquestrado
 
 <br>
@@ -50,4 +52,38 @@
 - sempre que houver a necessidade de enviar um evento a um Message Broker, ao invés de realizar o envio direto no fluxo de processamento, salva o conteúdo do evento em uma tabela que represente o Outbox
 
 <br>
+
+## Event-Driven Architecture (EDA) ou Arquitetura Orientada a Eventos
+
+- estilo de arquitetura de software em que a troca de informações e a coordenação de componentes são baseadas em eventos
+- não possui uma implementação física, e sim é um desenho arquitetural
+
+<br>
+
+## Apache Kafka 
+
+- ecossistema de streaming de eventos de maneira distribuída
+
+<br>
+
+## Idempotência
+
+- ações que podem ser repetidas várias vezes sem causar efeitos colaterais adicionais ou alterar o resultado final além da primeira execução
+
+<br>
+
+
+
+
+
+
+
+
+<br>
+
+# 👨🏼‍🎓 Aluno
+
+Lucas Araujo
+
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
 
