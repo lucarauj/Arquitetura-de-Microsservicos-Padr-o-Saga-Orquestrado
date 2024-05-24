@@ -1,6 +1,6 @@
 <p align="center"><img width="500px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Imagem Curso.png" /></p>
 
-# Curso Arquitetura de Microsserviços: Padrão Saga Orquestrado
+# Arquitetura de Microsserviços: Padrão Saga Orquestrado
 
 <br>
 
@@ -74,7 +74,7 @@
 
 # Arquitetura do projeto
 
-<p align="left"><img width="500px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Arquitetura Proposta.png" /></p>
+<p align="left"><img width="700px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Arquitetura Proposta.png" /></p>
 
 <br>
 
@@ -103,6 +103,18 @@
 - springdoc-openapi
 - validation
 - postgresql
+
+<br>
+
+## Criando imagens Docker
+
+- docker-compose up --build -d
+
+<br>
+
+
+
+
 
 <br>
 
