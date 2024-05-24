@@ -112,6 +112,16 @@
 
 <br>
 
+## Anotações
+
+- @AllArgsConstructor
+- @Bean
+- @Configuration
+- @EnableKafka
+- @Getter
+- @RequiredArgsConstructor
+- @Value
+
 
 
 
