@@ -74,7 +74,7 @@
 
 # Arquitetura do projeto
 
-<p align="left"><img width="700px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Arquitetura Proposta.png" /></p>
+<p align="center"><img width="600px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Arquitetura Proposta.png" /></p>
 
 <br>
 
