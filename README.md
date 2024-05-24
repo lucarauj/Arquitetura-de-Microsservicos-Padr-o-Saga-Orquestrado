@@ -1,4 +1,4 @@
-<p align="center"><img width="400px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Imagem Curso.png" /></p>
+<p align="center"><img width="500px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Imagem Curso.png" /></p>
 
 # Curso Arquitetura de Microsserviços: Padrão Saga Orquestrado
 
@@ -72,12 +72,37 @@
 
 <br>
 
+# Arquitetura do projeto
 
+<p align="left"><img width="500px" src="https://github.com/lucarauj/Arquitetura-de-Microsservicos-Padrao-Saga-Orquestrado/blob/main/Images/Arquitetura Proposta.png" /></p>
 
+<br>
 
+## Tecnologias utilizadas no projeto
 
+- Git/GitHub
+- IntelliJ
+- Java 17
+- Docker
+- Dbeaver
+- PostgreSQL
+- MongoDB
+- Kafka
+- Gradle
+- Redpanda
 
+<br>
 
+## Dependências:
+
+- spring-web
+- spring-data-jpa
+- kafka
+- lombok
+- devtools
+- springdoc-openapi
+- validation
+- postgresql
 
 <br>
 
