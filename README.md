@@ -122,9 +122,17 @@
 - @RequiredArgsConstructor
 - @Value
 
+<br>
 
+## Compilando o código fonte
 
+- ./gradlew build
 
+<br>
+
+## Removendo containers
+
+- docker-compose down
 
 <br>
 
