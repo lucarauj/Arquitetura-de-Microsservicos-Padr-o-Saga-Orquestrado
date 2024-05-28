@@ -117,12 +117,16 @@
 - @AllArgsConstructor
 - @Bean
 - @Builder
+- @Component
 - @Configuration
+- @ControllerAdvice
 - @Data
 - @EnableKafka
+- @ExceptionHandler
 - @Getter
 - @NoArgsConstructor
 - @RequiredArgsConstructor
+- @ResponseStatus
 - @Value
 
 <br>
