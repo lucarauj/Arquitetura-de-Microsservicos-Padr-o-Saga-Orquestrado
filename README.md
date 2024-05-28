@@ -116,9 +116,12 @@
 
 - @AllArgsConstructor
 - @Bean
+- @Builder
 - @Configuration
+- @Data
 - @EnableKafka
 - @Getter
+- @NoArgsConstructor
 - @RequiredArgsConstructor
 - @Value
 
