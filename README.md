@@ -124,9 +124,11 @@
 - @EnableKafka
 - @ExceptionHandler
 - @Getter
+- @KafkaListener
 - @NoArgsConstructor
 - @RequiredArgsConstructor
 - @ResponseStatus
+- @Slf4j
 - @Value
 
 <br>
