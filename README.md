@@ -121,9 +121,11 @@
 - @Configuration
 - @ControllerAdvice
 - @Data
+- @Document
 - @EnableKafka
 - @ExceptionHandler
 - @Getter
+- @Id
 - @KafkaListener
 - @NoArgsConstructor
 - @RequiredArgsConstructor
