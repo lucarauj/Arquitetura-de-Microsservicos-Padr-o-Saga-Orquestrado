@@ -130,6 +130,7 @@
 - @NoArgsConstructor
 - @RequiredArgsConstructor
 - @ResponseStatus
+- @Service
 - @Slf4j
 - @Value
 
