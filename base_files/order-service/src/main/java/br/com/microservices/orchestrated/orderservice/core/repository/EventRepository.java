@@ -9,6 +9,6 @@ import java.util.Optional;
 public interface EventRepository extends MongoRepository<Event, String> {
 
     List<Event> findAllByOrderByCreatedAtDesc();
-    Optional<Event> findTop1ByOrderIdOrderByCreateAtDesc(String orderId);
-    Optional<Event> findTop1ByTransactionIdOrderByCreateAtDesc(String transactionId);
+    Optional<Event> findTop1ByOrderIdOrderByCreatedAtDesc(String orderId);
+    Optional<Event> findTop1ByTransactionIdOrderByCreatedAtDesc(String transactionId);
 }

@@ -51,9 +51,9 @@ public class EventService {
     }
 
     private Event findByOrderId(String orderId) {
-        return repository.findTop1ByOrderIdOrderByCreateAtDesc(orderId).orElseThrow(() -> new ValidationException("Event not found by orderID"));
+        return repository.findTop1ByOrderIdOrderByCreatedAtDesc(orderId).orElseThrow(() -> new ValidationException("Event not found by orderID"));
     }
     private Event findByTransactionId(String transactionId) {
-        return repository.findTop1ByOrderIdOrderByCreateAtDesc(transactionId).orElseThrow(() -> new ValidationException("Event not found by transactionID"));
+        return repository.findTop1ByOrderIdOrderByCreatedAtDesc(transactionId).orElseThrow(() -> new ValidationException("Event not found by transactionID"));
     }
 }
