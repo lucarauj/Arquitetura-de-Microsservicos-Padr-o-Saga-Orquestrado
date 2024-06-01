@@ -125,11 +125,16 @@
 - @EnableKafka
 - @ExceptionHandler
 - @Getter
+- @GetMapping
 - @Id
 - @KafkaListener
 - @NoArgsConstructor
+- @PostMapping
+- @RequestMapping
+- @RequestBody
 - @RequiredArgsConstructor
 - @ResponseStatus
+- @RestController
 - @Service
 - @Slf4j
 - @Value
