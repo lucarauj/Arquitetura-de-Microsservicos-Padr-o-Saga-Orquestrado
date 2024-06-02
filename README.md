@@ -117,19 +117,24 @@
 - @AllArgsConstructor
 - @Bean
 - @Builder
+- @Column
 - @Component
 - @Configuration
 - @ControllerAdvice
 - @Data
 - @Document
 - @EnableKafka
+- @Entity
 - @ExceptionHandler
+- @GeneratedValue
 - @Getter
 - @GetMapping
 - @Id
 - @KafkaListener
 - @NoArgsConstructor
 - @PostMapping
+- @PrePersist
+- @PreUpdate
 - @RequestMapping
 - @RequestBody
 - @RequiredArgsConstructor
@@ -137,6 +142,7 @@
 - @RestController
 - @Service
 - @Slf4j
+- @Table
 - @Value
 
 <br>
@@ -150,6 +156,16 @@
 ## Removendo containers
 
 - docker-compose down
+
+<br>
+
+## Swagger
+
+- http://localhost:3000/swagger-ui/index.html
+
+<br>
+
+
 
 <br>
 
